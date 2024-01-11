@@ -48,8 +48,8 @@ This makes the app available at `http://localhost:7860`.
 3. Enter your query in the provided text box.
 4. Click "Ask Now" to receive the analysis.
 
-## Prompt tha GEMINI PRO Vision uses 
-GPT-4 was used to generate a detailed input_prompt.
+## Prompt that GEMINI PRO Vision uses 
+GPT-4 was used to generate a detailed input prompt.
 
 ```bash
 
