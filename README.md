@@ -2,9 +2,11 @@
 
 DutchInquire is a Streamlit-powered application designed to analyze Dutch documents and provide insights in English. It uses Google's Gemini Pro Vision model for processing and is deployed on [HuggingFace Spaces](https://huggingface.co/spaces/thecr7guy/DutchInquire).
 
-**Note that, during the time of development Google did not provide the API key for GEMINI models in Europe. To develop this application, a api key was obtained from India and the development was carried on a AWS EC2 instance in us-east-1**
 
 <img src="logo.png" alt="DutchInquire logo" style="height: 600px; width:700px;">
+
+**Note that, during the time of development Google did not provide the API key for GEMINI models in Europe. To develop this application, a api key was obtained from India and the development was carried on a AWS EC2 instance in us-east-1**
+
 
 ## Features
 
